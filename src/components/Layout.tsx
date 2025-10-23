@@ -103,7 +103,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 </svg>
               </a>
               <a
-                href="https://cabinet.globalaxitrade.com/auth/login"
+                href="https://cabinet.personalsignals.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-3 sm:px-4 md:px-6 py-2 sm:py-2.5 text-xs sm:text-sm md:text-base whitespace-nowrap bg-green-50 text-green-600 hover:bg-green-100 rounded-lg transition font-medium"
