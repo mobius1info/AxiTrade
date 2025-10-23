@@ -111,7 +111,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 Login
               </a>
               <a
-                href="https://cabinet.globalaxitrade.com/auth/registration"
+                href="https://cabinet.personalsignals.com/auth/registration"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-3 sm:px-4 md:px-6 py-2 sm:py-2.5 text-xs sm:text-sm md:text-base whitespace-nowrap bg-green-500 text-white rounded-lg hover:bg-green-600 transition font-medium"

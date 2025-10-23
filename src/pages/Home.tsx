@@ -18,7 +18,7 @@ export default function Home() {
               Unlock your financial potential with cutting-edge trading tools and expert support
             </p>
             <a
-              href="https://cabinet.globalaxitrade.com/auth/registration"
+              href="https://cabinet.personalsignals.com/auth/registration"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 sm:px-8 py-3 sm:py-4 bg-green-500 text-white rounded-lg text-base sm:text-lg font-semibold hover:bg-green-600 transition transform hover:scale-105"
