@@ -13,8 +13,8 @@ function App() {
     <AuthProvider>
       <Router>
         <Routes>
-          <Route path="https://cabinet.personalsignals.com" element={<AdminLogin />} />
-          <Route path="https://cabinet.personalsignals.com/auth/registration" element={<Admin />} />
+          <Route path="/admin/login" element={<AdminLogin />} />
+          <Route path="/admin" element={<Admin />} />
           <Route path="/*" element={
             <Layout>
               <Routes>
